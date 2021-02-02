@@ -1,6 +1,6 @@
 # Abdul Rashid
 
-[![Twitter Badge](![Twitter URL](https://img.shields.io/twitter/url?label=Abdul&style=social&url=https%3A%2F%2Ftwitter.com%2FSavage_7772))](https://twitter.com/Savage_7772)
+[![Twitter URL](https://img.shields.io/twitter/url?label=Abdul&style=social&url=https%3A%2F%2Ftwitter.com%2FSavage_7772)](https://twitter.com/Savage_7772)
 
 ## GitHub Status
 
